@@ -1,3 +1,3 @@
-module github.com/mounika1837/gomodtest1
+module github.com/mounika1837/gomodtest3
 
 go 1.17
